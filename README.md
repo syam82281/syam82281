@@ -1,68 +1,127 @@
-## 👋 Hi, I'm Syam
+<!-- HEADER ANIMATION -->
+<h1 align="center">Hi 👋, I'm Syam</h1>
 
-🚀 **Aspiring DevOps Engineer** | Cloud & Automation Enthusiast
+<h3 align="center">
+🚀 Aspiring DevOps Engineer | Cloud • Automation • CI/CD
+</h3>
 
-I am a highly motivated DevOps Engineer in training, actively building real-world projects and strengthening my expertise in modern DevOps, cloud infrastructure, and automation practices. I focus on designing scalable, reliable, and automated systems using industry-standard tools and best practices.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress;Cloud+and+Automation+Enthusiast;CI/CD+Pipeline+Builder;Always+Learning+New+DevOps+Tools" />
+</p>
+
+---
+
+## 💡 Professional Summary
+
+🔹 Passionate **DevOps Engineer in training** with strong hands-on experience in  
+**Cloud Infrastructure, CI/CD Automation, Containers, and Linux systems**.  
+🔹 Actively building **real-world DevOps projects** using industry-standard tools.  
+🔹 Focused on **scalable, reliable, and automated deployment workflows**.
 
 ---
 
 ## 🧑‍💻 What I Do
-- Design and implement **CI/CD pipelines**
-- Build and manage **containerized applications**
-- Deploy and operate applications on **cloud infrastructure**
-- Automate infrastructure provisioning and configuration
-- Work with Linux systems in production-like environments
+
+✔️ Design & implement **CI/CD pipelines**  
+✔️ Build & manage **Dockerized applications**  
+✔️ Deploy applications on **AWS cloud infrastructure**  
+✔️ Automate infrastructure using **Terraform**  
+✔️ Work extensively with **Linux (RHEL/Ubuntu)** systems  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### ☁️ Cloud
-- **AWS** – EC2, IAM, S3, VPC, CloudWatch (hands-on projects)
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
 
 ### 🐳 Containers & Orchestration
-- **Docker** – Image creation, containers, Dockerfiles
-- **Kubernetes** – Pods, Deployments, Services, basic networking
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
 
 ### ⚙️ CI/CD & Build Tools
-- **Jenkins** – Automated build & deployment pipelines
-- **Maven** – Build and dependency management
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
 
 ### 🧩 Infrastructure as Code
-- **Terraform** – Provisioning cloud resources using IaC
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
 
 ### 🖥️ Operating Systems
-- **Linux (RHEL / Ubuntu)** – Shell scripting, system administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
 
 ### 🔧 Version Control
-- **Git & GitHub** – Branching, pull requests, repository management
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📂 Projects & Practice
-- End-to-end **CI/CD pipelines using Jenkins + Docker**
-- Containerized application deployments
-- Kubernetes-based application hosting
-- AWS infrastructure setup using Terraform
-- DevOps workflow implementation from code to production
+## 📂 DevOps Projects & Practice
+
+🚀 **CI/CD Pipeline Automation**
+- Jenkins + Docker based pipelines  
+- Automated build, test, and deployment  
+
+🐳 **Containerization**
+- Dockerized applications with optimized images  
+
+☸️ **Kubernetes Deployments**
+- Pods, Services, Deployments  
+- Application exposure & scaling  
+
+☁️ **AWS Infrastructure**
+- EC2, IAM, VPC, S3 provisioning  
+- Infrastructure managed via Terraform  
+
+🔄 **End-to-End DevOps Workflow**
+- Code ➜ Build ➜ Container ➜ Deploy ➜ Monitor  
 
 ---
 
-## 🎯 Current Focus
-- Advanced Kubernetes concepts
-- Cloud-native DevOps practices
-- Monitoring & logging tools
-- Real-world DevOps project implementations
+## 🎯 Currently Learning & Improving
+
+🔹 Advanced Kubernetes (Ingress, Helm, Monitoring)  
+🔹 Cloud-native DevOps practices  
+🔹 Observability (Monitoring & Logging)  
+🔹 Production-grade DevOps architectures  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/<your-username>
-- LinkedIn: *(add when ready)*
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
 ---
 
-⭐ I believe in continuous learning, automation, and building reliable systems.
-
-
-
+⭐ **DevOps Mindset**  
+> *"Automate everything, monitor continuously, and improve relentlessly."*
